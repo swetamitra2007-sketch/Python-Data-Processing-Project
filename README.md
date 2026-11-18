@@ -49,10 +49,11 @@ The visualisation helps compare their measurement patterns and understand how th
 ## How to Run the Project
 
 1. Download the Python notebook (`.ipynb`) from this repository.
-2. Open Google Colab.
-3. Upload the downloaded notebook.
-4. Upload the Iris dataset when prompted.
-5. Run the cells in order from beginning to end.
+2. Download the `Iris.csv` dataset from this repository.
+3. Open [Google Colab](https://colab.research.google.com/).
+4. Upload the downloaded notebook to Google Colab.
+5. When prompted, upload the `Iris.csv` dataset.
+6. Run all the cells in order from beginning to end.
 
 ## Learning Outcomes
 
